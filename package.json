@@ -1,0 +1,25 @@
+{
+  "name": "tesraspberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kocsis1david.visualstudio.com/TESRaspberry/_git/TESRaspberry"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^3.2.1",
+    "request-simple-ntlm": "^1.1.0",
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.7",
+    "@types/onoff": "0.0.28",
+    "request-ntlm": "0.0.6"
+  }
+}
