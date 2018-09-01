@@ -6,6 +6,6 @@
 4. TES rendszert használó szervezeteknél felgyorsítja a számfejtési és project menedzselési időt, továbbá a csökkenti a munkahelyi stresszt ezáltal növeli a szervezet hatékonyságát.
 5. Architektúra rajz
 
-![alt text](https://preview.ibb.co/gr8B0K/tessst.png")
+![alt text](task_Image.png)
 
 
